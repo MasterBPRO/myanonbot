@@ -98,7 +98,7 @@ def getMessage():
 @server.route("/")
 def webhook():
     bot.remove_webhook()
-    bot.set_webhook(url=url + TOKEN)
+    bot.set_webhook(url=url + token)
     return "!", 200
 
 
