@@ -1,2 +1,2 @@
 # myanonbot
-Simple anon bot hosted on Heroke
+Simple anon bot hosted on Heroku
